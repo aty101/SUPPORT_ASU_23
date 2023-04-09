@@ -66,38 +66,3 @@ import function
 #         b=x
 #         break
 # print(flag)
-x=bytes.fromhex("F4")
-print()
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# check=1
-# for x in range(256):
-#     flag = ""
-#     for i in range(len(C)):
-#         flag+=xor(C[i],x).decode()
-#         if i==5 and flag != "crypto":
-#             break
-#         elif i==5 and flag == "crypto":
-#             check=0
-#     if check==0:
-#         b=x
-#         break
-# print(flag)
-
-
-
-
